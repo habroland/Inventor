@@ -11,11 +11,10 @@ The video already explains how to make an imperial thread. I used 1.035''-40.
 
 I found formulas for the thread shape of the metric standard in http://www.metrication.com/engineering/threads.html. I used M24x1.
 
-<img src="Thread_Metric.jpg" width="200" />
+<img src="Thread_Metric.jpg" width="300" />
 
 The single-thread files feature external threads. Internal threads can be easily done by constraining the sketch of the coiled V shape to the inner surface of the hollow cylinder.
 
 BiThread is the name of the file containing the adapter. I forgot the word "adapter" and so ended up calling it this way.
 
-![BiThread](BiThread.jpg)
-<img src="BiThread.jpg" width="200" />
+<img src="BiThread.jpg" width="300" />
