@@ -15,4 +15,6 @@ I found formulas for the thread shape of the metric standard in http://www.metri
 
 The single-thread files feature external threads. Internal threads can be easily done by constraining the sketch of the coiled V shape to the inner surface of the hollow cylinder.
 
-BiThread is the name of the file containing the adapter.
+BiThread is the name of the file containing the adapter. I forgot the word "adapter" and so ended up calling it this way.
+
+![BiThread](BiThread.jpg)
