@@ -11,7 +11,7 @@ The video already explains how to make an imperial thread. I used 1.035''-40.
 
 I found formulas for the thread shape of the metric standard in http://www.metrication.com/engineering/threads.html. I used M24x1.
 
-[Thread Metric](Thread_Metric.jpg)
+![Thread Metric](Thread_Metric.jpg)
 
 The single-thread files feature external threads. Internal threads can be easily done by constraining the sketch of the coiled V shape to the inner surface of the hollow cylinder.
 
